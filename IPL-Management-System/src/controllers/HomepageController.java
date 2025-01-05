@@ -121,7 +121,11 @@ public class HomepageController {
 
 
     void showFromTo(boolean show) {
-        if (show) showTextBox(false);
+         if (show)
+        {
+            showTextBox(false);
+            showCountryClub(false);
+        }
         fromLabel.setVisible(show);
         middleLable.setVisible(show);
         dollarLabel.setVisible(show);
