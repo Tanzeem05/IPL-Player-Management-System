@@ -1,0 +1,50 @@
+Virat Kohli,India,35,1.75,Royal Challengers Bangalore,Batsman,18,1.7E7,false 
+Jos Buttler,England,34,1.8,Rajasthan Royals,Wicketkeeper,63,1.75E7,false 
+Rashid Khan,Afghanistan,26,1.78,Gujarat Titans,Bowler,19,1.6E7,false 
+Ravindra Jadeja,India,35,1.73,Chennai Super Kings,Allrounder,8,1.65E7,false 
+David Warner,Australia,37,1.7,Delhi Capitals,Batsman,31,1.5E7,false 
+Jasprit Bumrah,India,30,1.78,Mumbai Indians,Bowler,93,1.75E7,false 
+MS Dhoni,India,43,1.78,Chennai Super Kings,Wicketkeeper,7,2.0E7,false 
+Andre Russell,West Indies,36,1.88,Kolkata Knight Riders,Allrounder,0,1.8E7,false 
+Rohit Sharma,India,37,1.74,Mumbai Indians,Batsman,45,1.9E7,false 
+Glenn Maxwell,Australia,35,1.82,Royal Challengers Bangalore,Allrounder,32,1.85E7,false 
+Shubman Gill,India,25,1.78,Gujarat Titans,Batsman,77,1.5E7,false 
+KL Rahul,India,32,1.8,Lucknow Super Giants,Wicketkeeper,1,1.85E7,false 
+Suryakumar Yadav,India,34,1.78,Mumbai Indians,Batsman,63,1.7E7,false 
+Sam Curran,England,26,1.75,Punjab Kings,Allrounder,58,2.0E7,false 
+Mohammed Shami,India,34,1.73,Gujarat Titans,Bowler,0,1.4E7,false 
+Yuzvendra Chahal,India,33,1.7,Rajasthan Royals,Bowler,3,1.5E7,false 
+Cameron Green,Australia,25,1.93,Mumbai Indians,Allrounder,25,2.1E7,false 
+Nicholas Pooran,West Indies,29,1.83,Lucknow Super Giants,Wicketkeeper,0,1.65E7,false 
+Hardik Pandya,India,30,1.83,Gujarat Titans,Allrounder,33,1.85E7,false 
+Faf du Plessis,South Africa,40,1.78,Royal Challengers Bangalore,Batsman,18,1.75E7,false 
+Pat Cummins,Australia,31,1.92,Kolkata Knight Riders,Bowler,30,1.75E7,false 
+Sanju Samson,India,30,1.79,Rajasthan Royals,Wicketkeeper,9,1.7E7,false 
+Marcus Stoinis,Australia,35,1.85,Lucknow Super Giants,Allrounder,17,1.75E7,false 
+Deepak Chahar,India,32,1.79,Chennai Super Kings,Bowler,0,1.5E7,false 
+Kuldeep Yadav,India,29,1.74,Delhi Capitals,Bowler,23,1.5E7,false 
+Quinton de Kock,South Africa,31,1.7,Lucknow Super Giants,Wicketkeeper,12,1.6E7,false 
+Trent Boult,New Zealand,35,1.85,Rajasthan Royals,Bowler,18,1.75E7,false 
+Shivam Dube,India,31,1.83,Chennai Super Kings,Allrounder,25,1.3E7,false 
+Kane Williamson,New Zealand,34,1.83,Gujarat Titans,Batsman,22,1.6E7,false 
+Shikhar Dhawan,India,38,1.8,Punjab Kings,Batsman,42,1.7E7,false 
+Kagiso Rabada,South Africa,29,1.91,Punjab Kings,Bowler,0,1.9E7,false 
+Axar Patel,India,30,1.83,Delhi Capitals,Allrounder,20,1.75E7,false 
+Mitchell Marsh,Australia,33,1.91,Delhi Capitals,Allrounder,31,1.8E7,false 
+Dinesh Karthik,India,39,1.7,Royal Challengers Bangalore,Wicketkeeper,21,1.6E7,false 
+Ruturaj Gaikwad,India,27,1.78,Chennai Super Kings,Batsman,31,1.5E7,false 
+Bhuvneshwar Kumar,India,34,1.78,Sunrisers Hyderabad,Bowler,15,1.4E7,false 
+Aiden Markram,South Africa,30,1.83,Sunrisers Hyderabad,Allrounder,16,1.6E7,false 
+Prithvi Shaw,India,24,1.68,Delhi Capitals,Batsman,100,1.2E7,false 
+Sunil Narine,West Indies,36,1.8,Kolkata Knight Riders,Allrounder,74,1.8E7,false 
+Washington Sundar,India,25,1.75,Sunrisers Hyderabad,Allrounder,5,1.4E7,false 
+Venkatesh Iyer,India,29,1.88,Kolkata Knight Riders,Allrounder,19,1.6E7,false 
+Tim David,Australia,28,1.96,Rajasthan Royals,Allrounder,21,1.5E7,false 
+Mohammed Siraj,India,30,1.79,Royal Challengers Bangalore,Bowler,0,1.7E7,false 
+Rassie van der Dussen,South Africa,35,1.87,Rajasthan Royals,Batsman,78,1.5E7,false 
+Krunal Pandya,India,33,1.8,Lucknow Super Giants,Allrounder,24,1.6E7,false 
+Ishan Kishan,India,26,1.68,Mumbai Indians,Wicketkeeper,23,2.0E7,false 
+Lockie Ferguson,New Zealand,33,1.85,Kolkata Knight Riders,Bowler,69,1.75E7,false 
+Harshal Patel,India,33,1.75,Royal Challengers Bangalore,Bowler,0,1.5E7,false 
+Mustafizur Rahman,Bangladesh,29,1.8,Delhi Capitals,Bowler,90,1.4E7,false 
+Litton Das,Bangladesh,30,1.7,Mumbai Indians,Wicketkeeper,16,1.0E7,false
